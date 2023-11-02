@@ -24,4 +24,11 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+  font-family: 'KCC-Chassam'
+}
+
+@font-face {
+  font-family: "KCC-Chassam";
+  font-weight: 400;
+  src: url("/fonts/KCC-Chassam.ttf") format("truetype");
 }

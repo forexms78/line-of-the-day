@@ -32,6 +32,13 @@ export default function Home() {
         또 너무 과하게 걱정하고 계시네요. 잘 될겁니다.
       </div>
 
+      <div className="bg-body-color-light dark:bg-hover-color hover:text-white dark:hover:text-text-green w-100 h-10 text-xl rounded-full inline-flex items-center justify-center cursor-pointer hover:-translate-y-3 transition-all duration-300">
+      <span>
+      또 너무 과하게 걱정하고 계시네요. 잘 될겁니다.
+      </span>
+         
+          </div>
+
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
           href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
