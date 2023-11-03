@@ -21,9 +21,9 @@ export default function RootLayout({
       // 폰트 적용을 위한 주석
       // className={inter.className}
       >
-        <CustomThemeProvider>
+        {/* <CustomThemeProvider> */}
         {children}
-        </CustomThemeProvider>
+        {/* </CustomThemeProvider> */}
 
         
 
